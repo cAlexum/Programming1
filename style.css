@@ -1,0 +1,25 @@
+body {
+    background-color: #27a370;
+    text-align: center;
+}
+.container {
+    margin-top: 20vh;
+}
+.title {
+    font-size: 50px;
+}
+.decrease-button {
+    border: solid 2px red;
+    color: aliceblue;
+    background-color: greenyellow;
+}
+.reset-button {
+    border: solid 2px black;
+    color: aliceblue;
+    background-color: gray;
+}
+.increase-button {
+    border: solid 2px green;
+    color: aliceblue;
+    background-color: greenyellow;
+}
